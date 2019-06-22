@@ -278,5 +278,50 @@
     "word": "der Balkon",
     "translation": "Balcony",
     "article": 0
+  },
+  {
+    "word": "die Blume",
+    "translation": "Flower",
+    "article": 1
+  },
+  {
+    "word": "der Garten",
+    "translation": "Garden",
+    "article": 0
+  },
+  {
+    "word": "der Baum",
+    "translation": "Tree",
+    "article": 0
+  },
+  {
+    "word": "die Garage",
+    "translation": "Garage",
+    "article": 1
+  },
+  {
+    "word": "das Erdgeschoss",
+    "translation": "Graound floor",
+    "article": 2
+  },
+  {
+    "word": "der Keller",
+    "translation": "Basement",
+    "article": 0
+  },
+  {
+    "word": "der Hafen",
+    "translation": "Port",
+    "article": 0
+  },
+  {
+    "word": "der Park",
+    "translation": "Park",
+    "article": 0
+  },
+  {
+    "word": "das Café",
+    "translation": "Cafe",
+    "article": 2
   }
 ]
