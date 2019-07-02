@@ -373,5 +373,35 @@
     "word": "die Brücke",
     "translation": "Bridge",
     "article": 1
+  },
+  {
+    "word": "das Regal",
+    "translation": "Shelf",
+    "article": 2
+  },
+  {
+    "word": "der Spiegel",
+    "translation": "Mirror",
+    "article": 0
+  },
+  {
+    "word": "der Herd",
+    "translation": "Oven",
+    "article": 0
+  },
+  {
+    "word": "die Erfahrung",
+    "translation": "Experience",
+    "article": 1
+  },
+  {
+    "word": "der Unterricht",
+    "translation": "Class",
+    "article": 0
+  },
+  {
+    "word": "die Buchung",
+    "translation": "Reservation",
+    "article": 1
   }
 ]
