@@ -50,7 +50,7 @@
     "article": 2
   },
   {
-    "word": "das Strand",
+    "word": "der Strand",
     "translation": "Beach",
     "article": 2
   },
@@ -80,7 +80,7 @@
     "article": 0
   },
   {
-    "word": "das Regel",
+    "word": "die Regel",
     "translation": "Rule",
     "article": 2
   },
@@ -248,11 +248,6 @@
     "word": "das Fenster",
     "translation": "Window",
     "article": 2
-  },
-  {
-    "word": "die Cola",
-    "translation": "Cola",
-    "article": 1
   },
   {
     "word": "die Treppe",
